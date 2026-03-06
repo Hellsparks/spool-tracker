@@ -1,0 +1,14 @@
+# Node / Mainsail dev
+node_modules/
+dist/
+.env
+
+# Arduino build artifacts
+*.elf
+*.bin
+*.hex
+build/
+
+# OS
+.DS_Store
+Thumbs.db
